@@ -1,0 +1,13 @@
+:root {
+    --pink-color: #e26e70;
+}
+
+.container {
+    background-image: linear-gradient(to right, #f8b8fd, #f571df);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
